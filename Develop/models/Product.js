@@ -22,12 +22,6 @@ Product.init(
       type: DataTypes.DECIMAL(10, 1),
       validate: { isDecimal: true,},
     },
-    stock: {
-      type: DataTypes.INTEGER,
-      allowNull: false,
-      defaultValue: 50,
-      validate: {isNumeric: true,},
-    },
     category_id: {
       type: DataTypes.INTEGER,
       references: {
@@ -42,7 +36,7 @@ Product.init(
     timestamps: false,
     freezeTableName: true,
     underscored: true,
-    modelName: 'product',
+    modelName: 'Product',
   }
 );
 
