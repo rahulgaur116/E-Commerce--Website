@@ -9,16 +9,18 @@ ProductTag.init(
     // define columns
     id: {
       type: DataTypes.INTEGER,
+      allownull: false,
       primaryKey: true,
       autoIncrement: true,
     },
-    tag_id: {
-      type: DataTypes.INTEGER,
-      references: {model: 'Tag',key: 'id',},
-    },
+   
     product_id: {
       type: DataTypes.INTEGER,
-      references: {model: 'Product', key: 'id',},
+      references: {model: 'product', key: 'id',},
+    },
+    tag_id: {
+      type: DataTypes.INTEGER,
+      references: {model: 'tag',key: 'id',},
     },
    
   },
@@ -27,7 +29,7 @@ ProductTag.init(
     timestamps: false,
     freezeTableName: true,
     underscored: true,
-    modelName: 'Product_tag',
+    modelName: 'product_tag',
   }
 );
 

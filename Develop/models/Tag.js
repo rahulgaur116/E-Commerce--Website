@@ -9,10 +9,11 @@ Tag.init(
     // define columns
     id: {
       type: DataTypes.INTEGER,
+      allowNull: false,
       primaryKey: true,
       autoIncrement: true,
     },
-    name: {
+    tag_name: {
       type: DataTypes.STRING,
     },
   },
@@ -21,7 +22,7 @@ Tag.init(
     timestamps: false,
     freezeTableName: true,
     underscored: true,
-    modelName: 'Tag',
+    modelName: 'tag',
   }
 );
 
