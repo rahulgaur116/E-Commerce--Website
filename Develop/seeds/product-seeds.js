@@ -2,34 +2,34 @@ const { Product } = require('../models');
 
 const productData = [
   {
-    product_name: 'Plain T-Shirt',
-    price: 14.99,
-    stock: 14,
+    product_name: 'SKY Bat',
+    price: 699.99,
+    stock: 20,
     category_id: 1,
   },
   {
-    product_name: 'Running Sneakers',
+    product_name: 'SG Balls',
     price: 90.0,
-    stock: 25,
-    category_id: 5,
+    stock: 3,
+    category_id: 2,
   },
   {
-    product_name: 'Branded Baseball Hat',
-    price: 22.99,
+    product_name: 'DSC APds',
+    price: 102.99,
     stock: 12,
-    category_id: 4,
-  },
-  {
-    product_name: 'Top 40 Music Compilation Vinyl Record',
-    price: 12.99,
-    stock: 50,
     category_id: 3,
   },
   {
-    product_name: 'Cargo Shorts',
-    price: 29.99,
+    product_name: 'Masuri',
+    price: 150.99,
+    stock: 20,
+    category_id: 4,
+  },
+  {
+    product_name: 'New Balance',
+    price: 299.99,
     stock: 22,
-    category_id: 2,
+    category_id: 5,
   },
 ];
 
