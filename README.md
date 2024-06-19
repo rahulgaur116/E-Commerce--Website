@@ -36,9 +36,10 @@ Test the APIs using tools like Postman or Insomnia.
 
 ## Walkthrough Video
 Please find the walkthrough video demonstrating the functionality and meeting all acceptance criteria here.
- <video controls src="Assets/Video1-all categories- tags- products.mp4" title="Title"></video>
- <video controls src="Assets/Video2-POST-PUT-DELETE- categories.mp4" title="Title"></video> 
- <video controls src="Assets/Video3-GET categories- tags- products by ID.mp4" title="Title"></video>
+
+![]("Assets/Video1-all-categories-tags-products.mp4")
+![]("Assets/Video2-POST-PUT-DELETE-categories.mp4")
+![]("Assets/Video3-GET-categories-tags-products-by-ID.mp4")
 
 ## License
 NONE
