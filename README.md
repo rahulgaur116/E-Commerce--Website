@@ -37,9 +37,9 @@ Test the APIs using tools like Postman or Insomnia.
 ## Walkthrough Video
 Please find the walkthrough video demonstrating the functionality and meeting all acceptance criteria here.
 
-![]("Assets/Video1-all-categories-tags-products.mp4")
-![]("Assets/Video2-POST-PUT-DELETE-categories.mp4")
-![]("Assets/Video3-GET-categories-tags-products-by-ID.mp4")
+https://drive.google.com/file/d/1AR0-Qkjs32eSs5kFWpbE3anHHDfGM6yc/view?usp=drive_link
+https://drive.google.com/file/d/11_DEZbTrPcgR6h3Lxk2ss5zDXDtgAF2h/view?usp=drive_link
+https://drive.google.com/file/d/1QOBzBX6x4LZsHWmRMZHqmTtItG11PxS7/view?usp=drive_link
 
 ## License
 NONE
