@@ -37,7 +37,7 @@ Test the APIs using tools like Postman or Insomnia.
 ## Walkthrough Video
 Please find the walkthrough video demonstrating the functionality and meeting all acceptance criteria here.
 
-C:\Users\rahul\OneDrive\Desktop\BOOT CAMP\Homework\E-Commerce--Website\Assets\Video1-all categories- tags- products.mp4
+(https://github.com/rahulgaur116/E-Commerce--Website/blob/main/Assets/Video1-all%20categories-%20tags-%20products.mp4)
  <video controls src="Assets/Video1-all categories- tags- products.mp4" title="Title"></video>
  <video controls src="Assets/Video2-POST-PUT-DELETE- categories.mp4" title="Title"></video> 
  <video controls src="Assets/Video3-GET categories- tags- products by ID.mp4" title="Title"></video>
